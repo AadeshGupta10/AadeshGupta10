@@ -1,7 +1,7 @@
 👋I'm Aadesh Gupta
 
 # 💫 About Me:
-🔭 I’m currently working on VisionVault – a real-time startup idea-sharing platform built with Next.js.<br>👯 I’m looking to collaborate on open-source React/Next.js projects and innovative web apps.<br>🤝 I’m looking for help with landing my first MERN stack job and networking in the industry.<br>🌱 I’m currently learning advanced Next.js features, backend optimization, and cloud deployment.<br>💬 Ask me about React, Next.js, state management, or building sleek web apps.<br>⚡ Fun fact: I have a bunch of side projects, from a movie search app (Cineck) to a number puzzle game (Numbo)!
+👯 I’m looking to collaborate on open-source React.js projects and innovative web apps.<br>🤝 I’m looking for help with landing my first MERN stack job and networking in the industry.<br>🌱 I’m currently learning advanced Next.js features, backend optimization, and cloud deployment.<br>💬 Ask me about React, Next.js, state management, or building sleek web apps.<br>⚡ Fun fact: I have a bunch of side projects, from a movie search app (Cineck) to a number puzzle game (Numbo)!
 
 
 ## 🌐 Socials:
